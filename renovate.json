@@ -1,5 +1,8 @@
 {
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-    "baseBranches": ["$default", "test"],
+    "baseBranchPatterns": [
+        "$default",
+        "test"
+    ],
     "configMigration": true
 }
