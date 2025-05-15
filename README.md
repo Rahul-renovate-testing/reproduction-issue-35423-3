@@ -2,4 +2,4 @@
 `$default` used:
 
 
-Expected to migrate and create PRs on both `main` and `test` branch
+Expected to migrate and create update PRs on both `main` and `test` branch
